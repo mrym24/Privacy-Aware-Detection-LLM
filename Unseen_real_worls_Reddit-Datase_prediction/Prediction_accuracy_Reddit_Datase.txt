@@ -1,0 +1,661 @@
+Sentence 1:
+Tokens: ['be', '367 Adams Ave', 'proprietor', 'Robin', 'Hood', 'bank balance', '$', '3,607', 'birthday', '2017-09-06', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 2:
+Tokens: ['birthday', '2019-12-01', 'assets', '$', '4,556', 'animation', '5519 Kaiwi St', 'proprietor', 'Gabrielle', 'Cotter', '.']
+Predicted Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 3:
+Tokens: ['Montagne', 'Main', 'income', '$', '4,837', 'be', '2010 VW City', 'birthday', '2019-04-01', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 4:
+Tokens: ['Resident', 'Evil', 'know', '8541 Ferguson Road', 'birthday', '2017-03-30', 'assets', '$', '7451', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 5:
+Tokens: ['living', '1 Manchester City', 'birthday', '2014-08-04', 'bank balance', '$', '8514', 'proprietor', 'Stony', 'Brook', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 6:
+Tokens: ['livelihood', '07 Suzuki Boulevard', 'birthday', 'August 4 1985', 'bank balance', '$', '3081', 'possessor', 'William', 'Estrada', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 7:
+Tokens: ['support', '10 Downing Street', 'date birth', 'April 2 2004', 'funds', '$', '8169', 'possessor', 'Tame', 'Impala', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 8:
+Tokens: ['Cartel', 'Wars', 'keep', '21 Jump Street', 'date birth', '09-27-2018', 'wealth', '$', '6184', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 9:
+Tokens: ['Gerald', 'Hardin', 'liabilities', '$', '2,740', 'know', '261 Rubber Road', 'date birth', '2019-04-01', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 10:
+Tokens: ['date birth', '09-27-2018', 'liabilities', '$', '330', 'life', '10 Cloverfield Lane', 'owner', 'Matt', 'Colville', '.']
+Predicted Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 11:
+Tokens: ['animation', '77 Brontosaurus Lane', 'proprietor', 'Grabow', 'Omega', 'money', '$', '8,743', 'date birth', '2017-11-25', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 12:
+Tokens: ['keep', '22 Wireless Road', 'date birth', 'December 24 1990', 'funds', '$', '8942', 'owner', 'Viva', 'Friki', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 13:
+Tokens: ['born', 'April 30 2020', 'equity', '$', '3,596', 'be', '60 Carlton St', 'possessor', 'Ethan', 'Klein', '.']
+Predicted Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 14:
+Tokens: ['animation', '1126 Dolman St', 'proprietor', 'Tess', 'Holiday', 'wealth', '$', '1,532', 'born', 'August 13 2006', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 15:
+Tokens: ['born', 'September 13 2009', 'equity', '$', '332', 'life', '10 Downing Street', 'owner', 'Nathan', 'Campbell', '.']
+Predicted Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 16:
+Tokens: ['Rhode', 'Island', 'liabilities', '$', '7,808', 'populate', '1989 Tiananmen Square', 'born', 'August 8 2020', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 17:
+Tokens: ['Meri', 'Robyn', 'keep', '2 Manchester City', 'born', 'August 15 2008', 'wealth', '$', '9388', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 18:
+Tokens: ['livelihood', '6 Charlotte Square', 'born', 'May 29 1992', 'money', '$', '9691', 'proprietor', 'John', 'Oliver', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Bi', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 19:
+Tokens: ['IDnumber', '537-12-4697', 'IP', '164.35.82.237', 'possessor', 'Timothy', 'Oneill', '.']
+Predicted Labels: ['T4-T1', 'T1-Ss', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Ss', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 20:
+Tokens: ['IP address', '191.121.51.208', 'IDnumber', '334-45-7420', 'proprietor', 'Elizabeth', 'Snow', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 21:
+Tokens: ['Palm', 'Harbor', 'IP', '71.249.173.110', 'IDnumber', '272-96-1182', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 22:
+Tokens: ['card', '5523517211796503', 'CVV2', '937', 'expense', '$', '9257', 'electronicmail', 'bigiftruepodcast@gmail.com', 'owner', 'Sane', 'Trilogy', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 23:
+Tokens: ['mail', 'justin.pierce@murphy-powell.org', 'owner', 'Robin', 'Hood', 'debitcard', '2233807426623560', 'CVC', '403', 'expense', '$', '3954', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 24:
+Tokens: ['card', '3565226726514773', 'CVV2', '847', 'fee', '$', '981', 'owner', 'Bandai', 'Spy', 'mail', 'info@milkhurts.org', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 25:
+Tokens: ['Soccer', 'Field', 'mail', 'snehaindreams@gmail.com', 'credit card', '2712730916012146', 'securitycode', '785', 'charge', '$', '4443', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 26:
+Tokens: ['SSN', '224-04-3505', 'possessor', 'Gabrielle', 'Cotter', '.']
+Predicted Labels: ['T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 27:
+Tokens: ['Maki', 'Master', 'SSN', '366-21-5262', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 28:
+Tokens: ['Captain', 'Marvel', 'paymentcard', '2673433422256839', 'electronicmail', 'ncastlesuperbeastmail@gmail.com', 'CVC', '805', 'charge', '$', '1451', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 29:
+Tokens: ['mail', 'chiaamerico@gmail.com', 'paymentcard', '4675292019895', 'CVV2', '966', 'proprietor', 'Dab', 'Dude', 'cost', '$', '4903', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 30:
+Tokens: ['electronicmail', 'jeff@amazon.com', 'card', '3532685471362367', 'securitycode', '290', 'possessor', 'Stan', 'Lee', 'fee', '$', '2181', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 31:
+Tokens: ['electronicmail', 'guillermo.delmolino@gmail.com', 'card', '4709834926505', 'proprietor', 'Emily', 'Mcbride', 'CVV2', '634', 'expense', '$', '345', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 32:
+Tokens: ['electronicmail', 'groff_ian@yahoo.com', 'card', '4375903047232289', 'possessor', 'Nicholas', 'Lee', 'CVC', '303', 'transaction', '$', '7177', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 33:
+Tokens: ['CVC', '496', 'electronicmail', 'driverpayment@grubhub.com', 'card', '4717811984808432', 'possessor', 'Douglas', 'Phillips', 'expense', '$', '2693', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 34:
+Tokens: ['Amanda', 'Williams', 'IDnumber', '714-71-6210', 'mail', 'contact@coffeemeetsbagel.com', 'card', '4539306507701759605', 'CVV', '255', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 35:
+Tokens: ['Kimberly', 'Larsen', 'mail', 'harperkathleen@gmail.com', 'SSN', '173-67-4024', 'card', '4596592608862390264', 'CVV', '345', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 36:
+Tokens: ['Aaron', 'Thomas', 'email', 'Zurtesart@gmail.com', 'card', '4963889313208111', 'socialsecuritynumber', '536-58-7641', 'CVV2', '987', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 37:
+Tokens: ['Troy', 'Hendrix', 'paymentcard', '4648689213373913', 'electronicmail', 'susan.herrick@uconn.edu', 'SSN', '550-11-7185', 'CVV', '954', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 38:
+Tokens: ['Vanessa', 'Hanson', 'IDnumber', '436-63-1738', 'CVV2', '266', 'electronicmail', 'missbriewhite@gmail.com', 'credit card', '6528132478563464', '.']
+Predicted Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'O']
+Actual Labels: ['T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 39:
+Tokens: ['mail', 'sharks.meme.bot@gmail.com', 'owner', 'Carrie', 'Thomas', 'IDnumber', '571-86-8808', 'security code', '135', 'credit card', '6011423039230766', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 40:
+Tokens: ['mail', 'contact@volkfi.com', 'proprietor', 'Justin', 'Cooper', 'socialsecuritynumber', '644-36-4275', 'credit card', '501801658532', 'CVV2', '350', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 41:
+Tokens: ['electronicmail', 'f1resnake@yourmum.com', 'possessor', 'Lauren', 'Mcclure', 'IDnumber', '764-35-0856', 'CVV', '956', 'card', '4393880617076', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 42:
+Tokens: ['mail', 'chinaqualitycabinet@gmail.com', 'paymentcard', '630456386972', 'possessor', 'Eric', 'Schmidt', 'IDnumber', '039-97-0448', 'CVV', '964', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 43:
+Tokens: ['email', 'ndeck@midco.net', 'credit card', '3596221147984955', 'cardverificationcode', '854', 'proprietor', 'Thomas', 'Meyers', 'SSN', '254-36-2219', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 44:
+Tokens: ['credit card', '342721216978559', 'email', 'williamthompson@conrad.com', 'securitycode', '751', 'possessor', 'Mathew', 'Garcia', 'IDnumber', '472-35-1277', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 45:
+Tokens: ['card', '6543119494119570', 'CVV', '613', 'electronicmail', 'hello@veoride.com', 'possessor', 'Sarah', 'Thompson', 'SSN', '682-47-9554', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 46:
+Tokens: ['credit card', '6011667657104576', 'securitycode', '773', 'IDnumber', '398-86-9669', 'email', 'wrassman@newhair.com', 'possessor', 'Evan', 'Williams', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 47:
+Tokens: ['card', '3500128151070685', 'CVV', '903', 'electronicmail', 'dpanicko@shipbob.com', 'socialsecuritynumber', '838-15-1782', 'proprietor', 'Cheryl', 'Holmes', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 48:
+Tokens: ['IP address', '206.191.155.104', 'mail', 'CSGOTeamFeedback@valvesoftware.com', 'SSN', '507-62-9984', 'proprietor', 'Tina', 'Jimenez', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Ss', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 49:
+Tokens: ['internetprotocol', '66.70.128.28', 'socialsecuritynumber', '305-90-2006', 'mail', 'legal@changelly.com', 'possessor', 'Virginia', 'Hodge', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 50:
+Tokens: ['internetprotocol', '24.31.31.31', 'SSN', '533-10-2911', 'mail', 'compliance@mailchimp.com', 'owner', 'Lauren', 'Wood', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 51:
+Tokens: ['internetprotocol', '1.0.0.7', 'charge', '$', '150', 'socialsecuritynumber', '875-06-2427', 'email', 'njennasdrawingss@gmail.com', 'possessor', 'Ethan', 'Nelson', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 52:
+Tokens: ['IP', '10.207.239.61', 'expense', '$', '8498', 'socialsecuritynumber', '717-57-6915', 'electronicmail', 'imanager@debarth.org', 'proprietor', 'Sherri', 'Chang', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Ss', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 53:
+Tokens: ['IP', '10.2.9.0', 'expense', '$', '5687', 'contactnumber', '1509214933', 'electronicmail', 'tigole@legacyofsteel.net', 'possessor', 'Sandra', 'Williams', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 54:
+Tokens: ['IP address', '192.168.0.10', 'cost', '$', '5526', 'email', 'info.parking@parking.gatech.edu', 'contactnumber', '485316513035', 'owner', 'Leah', 'Long', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 55:
+Tokens: ['card', '2282387842301372', 'CVC', '679', 'possessor', 'Gregory', 'Abbott', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 56:
+Tokens: ['CVC', '281', 'paymentcard', '4764125033075261', 'owner', 'Pamela', 'Williams', 'fee', '$', '7880', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 57:
+Tokens: ['credit card', '4906877484449721', 'possessor', 'Timothy', 'Rodriguez', 'cardverificationcode', '848', 'charge', '$', '6928', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 58:
+Tokens: ['debitcard', '5494603909596739', 'owner', 'Lisa', 'Smith', 'securitycode', '527', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-Secode', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 59:
+Tokens: ['proprietor', 'Joshua', 'Robinson', 'transaction', '$', '2263', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T4-T2', 'T2-Mo', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 60:
+Tokens: ['transaction', '$', '8623', 'proprietor', 'Matthew', 'Kennedy', '.']
+Predicted Labels: ['T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 61:
+Tokens: ['telephone', '617 568-9833', 'life', '0177 Check St West', 'electronicmail', 'contact@coffeemeetsbagel.com', 'birthday', 'August 8 1984', 'owner', 'Maxwell', 'Salinas', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Bi', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Bi', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 62:
+Tokens: ['live', '4641 Hair St Daniellemouth', 'IP', '21.55.15.32', 'cost', '$', '8391', 'electronicmail', 'mindrendtech@gmail.com', 'contactnumber', '813-630-7490x7938', 'proprietor', 'Kimberly', 'White', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 63:
+Tokens: ['be', '894 Share St South', 'charge', '$', '2719', 'networkaddress', '70.55.81.158', 'email', 'notsogood.nsg@gmail.com', 'telephone', '(693)717-7077', 'possessor', 'Mary', 'Baker', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 64:
+Tokens: ['livelihood', '057 Lose St North', 'cost', '$', '1686', 'electronicmail', 'root@cloud.newdomain.com', 'mobilenumber', '+1-217-455-7798', 'owner', 'Theresa', 'Ramirez', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 65:
+Tokens: ['email', 'octavianus.gozali@yahoo.com', 'be', '40281 Exist St Webbtown', 'cost', '$', '7031', 'contactnumber', '001-791-446-3869x88663', 'possessor', 'Victoria', 'Lopez', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 66:
+Tokens: ['mail', 'playclean@usada.org', 'live', '6986 Accept St Russellmouth', 'contactnumber', '262-594-1627x520', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Pho', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Pho', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 67:
+Tokens: ['living', '89419 Home St Johnview', 'electronicmail', 'davidavallkn@yahoo.com', 'phonenumber', '557-600-6977', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 68:
+Tokens: ['telephone', '686-514-2249x15908', 'life', '74817 Ground St Doyleberg', 'email', 'info@musiconmain.ca', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-St', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 69:
+Tokens: ['phonenumber', '597.633.5849', 'electronicmail', 'clemybeatz@icloud.com', 'living', '54612 Be St Rodriguezstad', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 70:
+Tokens: ['card', '4309032335997406437', 'creditunion', 'Cummings-Chambers', 'email', 'sweiss1@nypost.com', 'CVV', '496', 'possessor', 'Tyrone', 'Orozco', 'IDnumber', '019-53-9718', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 71:
+Tokens: ['credit card', '675915327182', 'bank', 'Citibank', 'email', 'test2@gmail.com', 'cardverificationcode', '802', 'owner', 'John', 'Rowland', 'IDnumber', '200-25-1603', '.']
+Predicted Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-credit', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 72:
+Tokens: ['creditunion', 'WellsFargo', 'credit card', '6011439843282348', 'electronicmail', 'MaggieJamesD@hotmail.com', 'CVV', '997', 'owner', 'Chelsea', 'Ward', 'socialsecuritynumber', '695-59-4740', '.']
+Predicted Labels: ['T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T3', 'T3-Em', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 73:
+Tokens: ['email', 'ninfo@globalb2bcontacts.com', 'bank', 'HSBC', 'paymentcard', '4506168505534970', 'securitycode', '084', 'owner', 'Christopher', 'Alexander', 'IDnumber', '078-72-6303', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T2', 'T2-Secode', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 74:
+Tokens: ['CVV', '974', 'bank', 'WellsFargo', 'card', '1101000101000010', 'owner', 'Kevin', 'Smith', 'socialsecuritynumber', '584-96-0746', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 75:
+Tokens: ['CVV2', '272', 'credit card', '1554077504230', 'possessor', 'Matthew', 'Lam', 'financialinstitution', 'Chase', 'IDnumber', '873-86-1881', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 76:
+Tokens: ['CVV', '805', 'card', '4139438118908514635', 'proprietor', 'Tyler', 'Goodwin', 'SSN', '305-34-4451', 'financialinstitution', 'America', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-bank', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'T4-T2', 'T2-bank', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 77:
+Tokens: ['securitycode', '1650', 'financialinstitution', 'HSBC', 'credit card', '6011031339196627', 'proprietor', 'Ryan', 'Miller', 'socialsecuritynumber', '646-33-7283', '.']
+Predicted Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Actual Labels: ['T4-T2', 'T2-Secode', 'T4-T2', 'T2-bank', 'T4-T2', 'T2-credit', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Ss', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 78:
+Tokens: ['internetprotocol', '5.10.15.20', 'cost', '$', '6225', 'financialinstitution', 'Citibank', 'mail', 'nameisnotjoey@gmail.com', 'phonenumber', '796-865-9423', 'possessor', 'Justin', 'Smith', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 79:
+Tokens: ['IP address', '84.200.69.80', 'charge', '$', '5331', 'creditunion', 'Citibank', 'webportal', 'www.amazon.com', 'proprietor', 'Brittany', 'Mayo', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 80:
+Tokens: ['IP address', '10.10.10.2', 'charge', '$', '6918', 'internetpage', 'images7.memedroid.com', 'creditunion', 'Citibank', 'owner', 'Roberta', 'Thompson', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-web', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-web', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 81:
+Tokens: ['internetprotocol', '185.29.203.11', 'cost', '$', '4412', 'website', 'vincent24.twitter.com', 'bank', 'Citibank', 'owner', 'Michael', 'Norris', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-web', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-web', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 82:
+Tokens: ['internetprotocol', '2.0.4.1', 'internetpage', 'joshua66.twitter.com', 'charge', '$', '4511', 'bank', 'Chase', 'possessor', 'Leon', 'Kelly', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T3', 'T3-web', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T3', 'T3-web', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T2', 'T2-bank', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 83:
+Tokens: ['networkaddress', '172.16.110.254', 'bankingservice', 'HSBC', 'electronicmail', 'erics.awesome.bots@gmail.com', 'website', 'emoji.redditmedia.com', 'contactnumber', '1557201846', 'proprietor', 'Melissa', 'Hart', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T2', 'T2-bank', 'T4-T3', 'T3-Em', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 84:
+Tokens: ['internetpage', 'github.com', 'internetprotocol', '10.160.0.0', 'contactnumber', '561.474.5428x090', 'email', '20admission@kispune.com', 'owner', 'Erin', 'Thompson', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 85:
+Tokens: ['webportal', 'en.wikipedia.org', 'owner', 'Neil', 'Hernandez', 'internetprotocol', '179.148.231.182', 'phonenumber', '1557201846', 'electronicmail', '20admission@kispune.com', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 86:
+Tokens: ['owner', 'Andrea', 'Gardner', 'website', 'www.reddit.com', 'networkaddress', '91.189.95.83', 'phonenumber', '1469933834', 'mail', 'vwood@powerscore.com', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 87:
+Tokens: ['proprietor', 'Lori', 'Williams', 'homepage', 'www.merriam-webster.com', 'IP', '8.43.76.52', 'telephone', '706-708-6440', 'email', 'admission@kispune.com', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 88:
+Tokens: ['telephone', '1377872796', 'electronicmail', 'admission@kispune.com', 'animation', '4664 Think St Port', 'postalcode', '67525', 'nation', 'Brazil', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 89:
+Tokens: ['mobilenumber', '1557201846', 'email', 'mainegreenindependent@gmail.com', 'living', '3600 Lincoln Ave', 'nation', 'Mexico', 'zipcode', '50000', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T1', 'T1-Zip', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T1', 'T1-Zip', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 90:
+Tokens: ['phonenumber', '5442991953', 'zip', '24717', 'email', 'adrien.martinez123@outlook.fr', 'be', '1940 Situation St North', 'state', 'United Arab Emirates', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 91:
+Tokens: ['owner', 'Jennifer', 'Hill', 'zipcode', '29389', 'webportal', 'pitchfork.com', 'IP', '78.28.182.81', 'phonenumber', '1424797237', 'mail', 'support@vaporesso.com', 'state', '"Cote dIvoire"', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Count', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Count', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 92:
+Tokens: ['owner', 'Gary', 'Ruiz', 'contactnumber', '1788296656', 'postalcode', '11528', 'internetpage', 'courtney09.youtube.com', 'territory', 'Marshall Islands', 'networkaddress', '166.60.109.185', 'email', 'jagamboa2006@gmail.com', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 93:
+Tokens: ['owner', 'Austin', 'Gonzalez', 'homepage', 'jordantasha.amazon.com', 'phonenumber', '827.504.0095', 'zipcode', '70990', 'nation', 'Venezuela', 'internetprotocol', '26.31.31.31', 'mail', 'erics.awesome.bots@gmail.com', '.']
+Predicted Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 94:
+Tokens: ['keep', '339 Character St Rubenbury', 'IP', '67.71.68.48', 'cost', '$', '136', 'email', 'blackrosearts.official.ad@gmail.com', 'phonenumber', '1329122368', 'proprietor', 'Joseph', 'Gibson', 'zipcode', '46077', 'nation', 'Chile', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 95:
+Tokens: ['populate', '73143 Goal St Reevesport', 'networkaddress', '32.0.0.116', 'zip', '78903', 'charge', '$', '9830', 'electronicmail', 'fabianklejewski@gmail.com', 'mobilenumber', '+1-616-639-6887', 'owner', 'Lisa', 'King', 'territory', 'Panama', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Count', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Count', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 96:
+Tokens: ['living', '0948 Somebody St East', 'networkaddress', '127.0.0.1', 'postalcode', '46834', 'land', 'Guyana', 'transaction', '$', '9704', 'email', 'enforcement@relic.com', 'phonenumber', '+1-234-608-0922', 'possessor', 'Lori', 'Wilson', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 97:
+Tokens: ['support', '55038 Simple St East', 'zip', '22079', 'internetprotocol', '10.32.16.0', 'territory', 'Dominican Republic', 'cost', '$', '4955', 'electronicmail', 'bill@themmpodcast.com', 'contactnumber', '456-530-8190', 'owner', 'Hunter', 'Lewis', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 98:
+Tokens: ['live', '499 Difference St Lake', 'nation', 'Saint Lucia', 'networkaddress', '198.100.150.46', 'zipcode', '08000', 'charge', '$', '2261', 'mail', 'nSen.FloydProzanski@OregonLegislature.gov', 'telephone', '1554076800', 'owner', 'Linda', 'Gutierrez', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Zip', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 99:
+Tokens: ['know', '03062 Give St Jeromeview', 'country', 'Bangladesh', 'expense', '$', '8082', 'zipcode', '39660', 'internetprotocol', '192.168.1.17', 'email', 'info@maylocnuochanoi.com', 'contactnumber', '1557201846', 'possessor', 'Paul', 'Foley', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T1', 'T1-Zip', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 100:
+Tokens: ['go', '1096 Project St Port', 'country', 'Angola', 'transaction', '$', '327', 'IP', '10.0.0.1', 'email', 'nsjud.exhibits@oregonlegislature.gov', 'mobilenumber', '1557201846', 'proprietor', 'Kelly', 'White', 'zipcode', '10529', '.']
+Predicted Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'O']
+Actual Labels: ['T4-T1', 'T1-St', 'T4-T1', 'T1-Count', 'T4-T2', 'T4-T2', 'T2-Mo', 'T4-T3', 'T3-Ip', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T1', 'T1-Zip', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 101:
+Tokens: ['website', 'www.instagram.com', 'mail', 'housing@westbroadway.mb.ca', 'owner', 'William', 'Pollard', '.']
+Predicted Labels: ['T1-Pho', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 0.8750
+
+Sentence 102:
+Tokens: ['internetpage', 'www.bbc.com', 'phonenumber', '1554076800', 'possessor', 'Dean', 'Phillips', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 103:
+Tokens: ['mail', 'rachelmt211@gmail.com', 'internetprotocol', '211.159.147.35', 'mobilenumber', '1557201846', 'proprietor', 'Kellie', 'Lopez', '.']
+Predicted Labels: ['T4-T3', 'T3-Em', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Em', 'T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 104:
+Tokens: ['webpage', 'emoji.redditmedia.com', 'mobilenumber', '1557201846', 'electronicmail', 'nakirepower@gmail.com', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 105:
+Tokens: ['webpage', 'www.britannica.com', 'mail', 'wanderingartist360@gmail.com', 'proprietor', 'Troy', 'Skinner', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 106:
+Tokens: ['contactnumber', '1554076800', 'email', 'jim@thejimquisition.com', 'possessor', 'Kyle', 'Taylor', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 107:
+Tokens: ['webportal', 'gatherer.wizards.com', 'possessor', 'Edward', 'Olson', '.']
+Predicted Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 108:
+Tokens: ['telephone', '1385919107', 'proprietor', 'Sara', 'Wilson', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 109:
+Tokens: ['IP address', '108.61.229.66', 'phonenumber', '1554076800', 'webpage', 'www.youtube.com', 'mail', 'customerservice@website.mlb.com', 'owner', 'Emily', 'Lee', '.']
+Predicted Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Actual Labels: ['T4-T3', 'T3-Ip', 'T4-T1', 'T1-Pho', 'T4-T3', 'T3-web', 'T4-T3', 'T3-Em', 'T4-T1', 'T1-Na', 'T1-La', 'O']
+Sentence Accuracy: 1.0000
+
+Sentence 110:
+Tokens: ['mobilenumber', '1425401077', 'website', 'emoji.redditmedia.com', 'possessor', 'Mario', 'Jackson', 'email', 'orders@bakershoe.com', '.']
+Predicted Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'O']
+Actual Labels: ['T4-T1', 'T1-Pho', 'T4-T3', 'T3-web', 'T4-T1', 'T1-Na', 'T1-La', 'T4-T3', 'T3-Em', 'O']
+Sentence Accuracy: 1.0000
+
+Overall Accuracy: 0.9992
